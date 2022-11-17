@@ -1,0 +1,582 @@
+id,Topic,SubTopic,Keyword,Keyword_ENG,cluster,LABELS,Semantic_score
+0,Testen,Persoonlijkheidstest,persoonlijkheidstests,personality tests,7,personal test,0.639
+1,Testen,Persoonlijkheidstest,persoonlijkheidstest,personality test,7,personal test,0.685
+2,Training en ontwikkeling,persoonlijke ontwikkeling,verschillende persoonlijkheden,different personalities,1,describe personal development,0.424
+3,Training en ontwikkeling,persoonlijke ontwikkeling,persoonlijkheidstypen kleuren,personality types coloring,1,describe personal development,0.300
+4,Testen,Persoonlijkheidstest,persoonlijkheidstest psychologie,personality test psychology,7,personal test,0.610
+5,Training en ontwikkeling,persoonlijke ontwikkeling,persoonlijkheidsvragenlijst,personality questionnaire,1,describe personal development,0.447
+6,Testen,Persoonlijkheidstest,persoonlijkheidstest mbti,personality test mbti,7,personal test,0.511
+7,Training en ontwikkeling,persoonlijke ontwikkeling,persoonlijkheid kenmerken,personality traits,1,describe personal development,0.491
+8,Testen,disc,disc persoonlijkheidstest,disc personality test,5,disc test,0.761
+9,Testen,Persoonlijkheidstest,jung persoonlijkheidstest,jung personality test,7,personal test,0.515
+10,Testen,Persoonlijkheidstest,personaliteits test,personality test,7,personal test,0.685
+11,Testen,Persoonlijkheidstest,persoonlijk test,personal test,7,personal test,1.000
+12,Testen,Persoonlijkheidstest,persoonlijkheidstest jung,personality test jung,7,personal test,0.489
+13,Training en ontwikkeling,persoonlijke ontwikkeling,big five persoonlijkheidsmodel,big five personality model,1,describe personal development,0.340
+14,Testen,Persoonlijkheidstest,persoonlijke testen,personal tests,7,personal test,0.965
+15,Testen,disc,disc persoonlijkheid,disc personality,5,disc test,0.572
+16,Testen,Persoonlijkheidstest,online persoonlijkheidstest,online personality test,7,personal test,0.570
+17,Testen,Persoonlijkheidstest,thomas test persoonlijkheid,thomas personality test,7,personal test,0.510
+18,Training en ontwikkeling,persoonlijke ontwikkeling,persoonlijk profiel analyse,personal profile analysis,1,describe personal development,0.468
+19,Testen,Persoonlijkheidstest,disk persoonlijkheidstest,disk personality test,7,personal test,0.514
+20,Testen,Persoonlijkheidstest,persoonlijke kwaliteiten test,personal qualities test,7,personal test,0.675
+21,Testen,Persoonlijkheidstest,zelftest persoonlijkheid,self test personality,7,personal test,0.673
+22,Training en ontwikkeling,persoonlijke ontwikkeling,sterke punten persoonlijkheid,strengths personality,1,describe personal development,0.382
+23,Testen,Persoonlijkheidstest,persoonlijkheidstesten soorten,personality tests types,7,personal test,0.522
+24,Testen,Persoonlijkheidstest,gedragsstijlen test,behavioral style test,7,personal test,0.412
+25,Testen,Persoonlijkheidstest,test je gedrag,test your behavior,7,personal test,0.598
+26,Testen,Redeneren,abstract redeneervermogen,abstract reasoning ability,19,abstract reasoning,0.878
+27,Testen,Redeneren,abstract redeneren,abstract reasoning,19,abstract reasoning,1.000
+28,Testen,Redeneren,numeriek redeneren,numerical reasoning,4,reasoning tests,0.509
+29,Testen,Redeneren,inductief redeneren,inductive reasoning,4,reasoning tests,0.546
+30,Testen,Redeneren,redeneertesten,reasoning tests,4,reasoning tests,1.000
+31,Testen,Redeneren,deductief redeneren,deductive reasoning,4,reasoning tests,0.651
+32,Testen,Redeneren,test abstract redeneervermogen,test abstract reasoning ability,19,abstract reasoning,0.757
+33,Testen,Redeneren,numeriek redeneervermogen,numerical reasoning ability,4,reasoning tests,0.592
+34,Testen,Redeneren,verbaal redeneervermogen,verbal reasoning ability,4,reasoning tests,0.609
+35,Testen,Redeneren,redeneren betekenis,reason meaning,4,reasoning tests,0.328
+36,Testen,Redeneren,deductief redeneren test,deductive reasoning test,4,reasoning tests,0.819
+37,Testen,Redeneren,abstract redeneren hudson,abstract reasoning hudson,19,abstract reasoning,0.730
+38,Testen,Redeneren,redenering betekenis,reasoning meaning,4,reasoning tests,0.635
+39,Testen,Redeneren,test logisch redeneren,test logical reasoning,4,reasoning tests,0.879
+40,Testen,Redeneren,verbaal redeneren oefenen,practice verbal reasoning,4,reasoning tests,0.633
+41,Testen,Redeneren,test inductief redeneren,test inductive reasoning,4,reasoning tests,0.741
+42,Testen,Redeneren,abstract redeneren waarom,abstract reasoning ,19,abstract reasoning,1.000
+43,Testen,Redeneren,test abstract redeneervermogen boek,test abstract reasoning book,19,abstract reasoning,0.682
+44,Testen,Redeneren,abstract redeneervermogen hudson,abstract reasoning hudson,19,abstract reasoning,0.730
+45,Testen,Redeneren,redeneringstesten oefenen,practice reasoning tests,4,reasoning tests,0.927
+46,Testen,Redeneren,numeriek redeneren hudson,numerical reasoning hudson,4,reasoning tests,0.325
+47,Evaluatie,geven,numerieke reeksen oefenen,practice numerical sequences,10, giving feedback,0.119
+48,Testen,Redeneren,verbaal redeneren test,verbal reasoning test,4,reasoning tests,0.821
+49,Testen,Redeneren,wat is verbaal redeneren, verbal reasoning,4,reasoning tests,0.655
+50,Testen,Redeneren,verbaal abstract redeneren betekenis,verbal abstract reasoning meaning,19,abstract reasoning,0.780
+51,Testen,Redeneren,logisch redeneervermogen,logical reasoning,4,reasoning tests,0.660
+52,Testen,Redeneren,logisch redeneren betekenis,logical reasoning meaning,4,reasoning tests,0.564
+53,Testen,Redeneren,inductief logisch redeneren,inductive logical reasoning,4,reasoning tests,0.559
+54,Testen,Redeneren,wat is abstract redeneren, abstract reasoning,19,abstract reasoning,1.000
+55,Testen,Redeneren,abstract redeneervermogen domino,abstract reasoning dominoes,19,abstract reasoning,0.784
+56,Testen,Redeneren,abstracte redeneertest hudson,abstract reasoning test hudson,19,abstract reasoning,0.634
+57,Testen,Redeneren,numerical reasoning test nederlands,numerical reasoning test nederlands,4,reasoning tests,0.613
+58,Testen,Redeneren,verbal reasoning test nederlands,verbal reasoning test nederlands,4,reasoning tests,0.693
+59,Testen,Redeneren,numeriek redeneren betekenis,numerical reasoning meaning,4,reasoning tests,0.435
+60,Testen,Persoonlijkheidstest,iq test,iq test,7,personal test,0.518
+61,Evaluatie,geven,emotionele intelligentie,emotional intelligence,10, giving feedback,0.193
+62,Testen,Persoonlijkheidstest,test intelligence,test intelligence,7,personal test,0.547
+63,Testen,Persoonlijkheidstest,iq test nederlands,iq test netherlands,7,personal test,0.404
+64,Evaluatie,geven,emotioneel intelligent,emotionally intelligent,10, giving feedback,0.201
+65,Testen,Persoonlijkheidstest,intelligentietest psycholoog,intelligence test psychologist,7,personal test,0.453
+66,Testen,Persoonlijkheidstest,iq test training,iq test training,7,personal test,0.444
+67,Testen,Persoonlijkheidstest,gratis online iq test,free online iq test,7,personal test,0.399
+68,Testen,Persoonlijkheidstest,intelligentie structuur test,intelligence structure test,7,personal test,0.426
+69,Evaluatie,geven,algemene intelligentie,general intelligence,10, giving feedback,0.199
+70,Evaluatie,geven,lage emotionele intelligentie,low emotional intelligence,10, giving feedback,0.149
+71,Evaluatie,geven,hoge emotionele intelligentie,high emotional intelligence,10, giving feedback,0.138
+72,Evaluatie,geven,numerieke intelligentie,numerical intelligence,10, giving feedback,0.180
+73,Testen,Persoonlijkheidstest,general intelligence test,general intelligence test,7,personal test,0.563
+74,Testen,Vaardigheden,cognitieve intelligentie test,cognitive intelligence test,16,cognitive skills test,0.890
+75,Testen,Persoonlijkheidstest,intelligentietest volwassenen,intelligence test adults,7,personal test,0.506
+76,Testen,Persoonlijkheidstest,intelligentie test oefenen,practice intelligence test,7,personal test,0.496
+77,Evaluatie,geven,intelligentieonderzoek volwassenen,intelligence research adults,10, giving feedback,0.203
+78,Testen,Persoonlijkheidstest,teique test,test to you,7,personal test,0.605
+79,Testen,Persoonlijkheidstest,eq test scores,eq test scores,7,personal test,0.365
+80,Testen,overige testen,hoe werkt een iq test,how does an iq test work,0, an assessment test,0.448
+81,Testen,Persoonlijkheidstest,onderdelen iq test,parts iq test,7,personal test,0.421
+82,Testen,Persoonlijkheidstest,online iq test nederlands,online iq test dutch,7,personal test,0.349
+83,Testen,Persoonlijkheidstest,iq test belgië,iq test belgium,7,personal test,0.378
+84,Testen,Persoonlijkheidstest,uitleg iq testen,explanation iq testing,7,personal test,0.461
+85,Testen,Persoonlijkheidstest,eq test gratis,free eq test,7,personal test,0.419
+86,Testen,Persoonlijkheidstest,eq test betekenis,eq test meaning,7,personal test,0.346
+87,Testen,Leiderschap,eigenschappen leiderschap,leadership qualities,21,leadership qualities,1.000
+88,Testen,Leiderschap,leiderschapskwaliteiten test,leadership qualities test,21,leadership qualities,0.856
+89,Leiderschap,leiderschapstijlen,leiderschap kenmerken,leadership characteristics,17,leadership styles,0.823
+90,Leiderschap,leiderschapstijlen,leiderschapsstijlen kleuren,coloring leadership styles,17,leadership styles,0.768
+91,Evaluatie,geven,leider eigenschappen,leader traits,10, giving feedback,0.118
+92,Evaluatie,geven,kwaliteiten van een leider,qualities of a leader,10, giving feedback,0.183
+93,Leiderschap,leiderschapstijlen,kenmerken leiderschap,characteristics of leadership,17,leadership styles,0.803
+94,Leiderschap,leiderschapstijlen,leiderschap test,leadership test,17,leadership styles,0.664
+95,Leiderschap,leiderschapstijlen,situationeel leiderschap test,situational leadership test,17,leadership styles,0.591
+96,Leiderschap,leiderschapstijlen,kleuren leiderschap test,color leadership test,17,leadership styles,0.599
+97,Leiderschap,leiderschapstijlen,leiderschapsstijlen test hersey en blanchard,leadership styles test hersey and blanchard,17,leadership styles,0.722
+98,Leiderschap,leiderschapstijlen,test leiderschapsstijl,test leadership style,17,leadership styles,0.698
+99,Testen,Vaardigheden,cognitieve test,cognitive test,16,cognitive skills test,0.899
+100,Testen,Vaardigheden,cognitieve vaardigheden,cognitive skills,16,cognitive skills test,0.794
+101,Testen,Vaardigheden,planningsvaardigheden testen,testing planning skills,16,cognitive skills test,0.607
+102,Testen,Vaardigheden,cognitieve vaardigheden test,cognitive skills test,16,cognitive skills test,1.000
+103,Testen,Vaardigheden,vaardigheden test,skills test,16,cognitive skills test,0.776
+104,Testen,Vaardigheden,cognitieve capaciteitentest,cognitive ability test,16,cognitive skills test,0.918
+105,Testen,Vaardigheden,wat is een cognitieve test, a cognitive test,16,cognitive skills test,0.866
+106,Testen,Vaardigheden,cognitieve test betekenis,cognitive test meaning,16,cognitive skills test,0.806
+107,Testen,Vaardigheden,cognitieve vaardigheden test gratis,cognitive skills test free,16,cognitive skills test,0.784
+108,Testen,Vaardigheden,cognitieve intelligentie test,cognitive intelligence test,16,cognitive skills test,0.890
+109,Assessment,ppa,ait betekenis,ait meaning,24, does ppa mean,-0.012
+110,Assessment,oefenen,ait assessment,ait assessment,9,practice assessment,0.404
+111,Testen,Persoonlijkheidstest,ait test voorbeeld,ait test example,7,personal test,0.454
+112,Evaluatie,geven,teique,teik,10, giving feedback,0.151
+113,Evaluatie,geven,teiq,teiq,10, giving feedback,0.084
+114,Assessment,oefenen,teique assessment,teique assessment,9,practice assessment,0.440
+115,Testen,disc,disc test,disc test,5,disc test,1.000
+116,Testen,disc,disc profiel,disc profile,5,disc test,0.623
+117,Testen,disc,disc persoonlijkheidstest,disc personality test,5,disc test,0.761
+118,Testen,disc,disc model test,disc model test,5,disc test,0.892
+119,Testen,disc,disc profiel test,disc profile test,5,disc test,0.845
+120,Testen,disc,disc test gratis,test disc for free,5,disc test,0.749
+121,Testen,disc,disc persoonlijkheid,disc personality,5,disc test,0.572
+122,Testen,disc,disc uitleg,disc explanation,5,disc test,0.740
+123,Testen,disc,disc vragenlijst pdf,disc questionnaire pdf,5,disc test,0.679
+124,Testen,disc,disc test nederlands,disc test nederlands,5,disc test,0.749
+125,Testen,disc,disc test download,disc test download,5,disc test,0.800
+126,Testen,Persoonlijkheidstest,gia test oefenen,practice gia test,7,personal test,0.350
+127,Testen,Persoonlijkheidstest,gia test gratis,gia test free,7,personal test,0.437
+128,Testen,Persoonlijkheidstest,gia test score,gia test score,7,personal test,0.370
+129,Evaluatie,geven,consciëntieusheid,conscientiousness,10, giving feedback,0.126
+130,Testen,Persoonlijkheidstest,tascnet test,tascnet test,7,personal test,0.410
+131,Testen,Persoonlijkheidstest,psychotechnische testen oefenen,practice psychotechnical tests,7,personal test,0.547
+132,Testen,Persoonlijkheidstest,analytische test,analytical test,7,personal test,0.439
+133,Testen,Persoonlijkheidstest,welke kleur ben ik test, color am i testing,7,personal test,0.467
+134,Testen,Persoonlijkheidstest,hersey en blanchard test,hersey in blanchard test,7,personal test,0.429
+135,Testen,Persoonlijkheidstest,loopbaanbegeleiding online test,career guidance online test,7,personal test,0.401
+136,Testen,Persoonlijkheidstest,wat zijn mijn zwakke punten test, are my weaknesses test,7,personal test,0.529
+137,Testen,overige testen,wat is een assessment test, an assessment test,0, an assessment test,1.000
+138,Testen,Persoonlijkheidstest,hpti test,hpti test,7,personal test,0.409
+139,Testen,Persoonlijkheidstest,emoties herkennen test,recognize emotions test,7,personal test,0.445
+140,Evaluatie,geven,leervermogen,learning ability,10, giving feedback,0.278
+141,Testen,Persoonlijkheidstest,leervermogen testen,test learning ability,7,personal test,0.540
+142,Evaluatie,geven,leervermogen competentie,learning ability competence,10, giving feedback,0.219
+143,Evaluatie,geven,interactief leervermogen,interactive learning ability,10, giving feedback,0.291
+144,Evaluatie,geven,psychometrie,psychometrie,10, giving feedback,0.226
+145,Testen,Persoonlijkheidstest,psychometric test,psychometric test,7,personal test,0.647
+146,Assessment,ppa,psychometrie betekenis,psychometric meaning,24, does ppa mean,0.146
+147,Evaluatie,geven,psychometrisch,psychometrisch,10, giving feedback,0.191
+148,Testen,Persoonlijkheidstest,wat is een psychometrische test, a psychometric test,7,personal test,0.626
+149,Evaluatie,geven,wat is psychometrie, psychometry,10, giving feedback,0.282
+150,Testen,Persoonlijkheidstest,psychometric test characters,psychometric test characters,7,personal test,0.496
+151,Assessment,ppa,psychometrische eigenschappen betekenis,psychometric properties meaning,24, does ppa mean,0.103
+152,Assessment,ppa,psychometric test meaning,psychometric test meaning,24, does ppa mean,0.151
+153,Testen,Persoonlijkheidstest,psychotechnische testen,psychotechnical testing,7,personal test,0.586
+154,Testen,Persoonlijkheidstest,psychotechnische testen voorbeelden,psychotechnical testing examples,7,personal test,0.541
+155,Evaluatie,geven,vragenlijst emoties,questionnaire emotions,10, giving feedback,0.292
+156,Testen,Persoonlijkheidstest,wat zijn psychotechnische testen, are psychotechnical tests,7,personal test,0.551
+157,Testen,Persoonlijkheidstest,ppa test oefenen,ppa test practice,7,personal test,0.537
+158,Evaluatie,geven,ppa analyse,ppa analyse,10, giving feedback,0.182
+159,Evaluatie,geven,spa analyse,spa analyse,10, giving feedback,0.224
+160,Testen,Persoonlijkheidstest,ppa test gratis,ppa test for free,7,personal test,0.515
+161,Assessment,oefenen,ppa assessment test,ppa assessment test,9,practice assessment,0.477
+162,Evaluatie,geven,ppa online,ppa online,10, giving feedback,0.143
+163,Evaluatie,geven,profielanalyse,profile analysis,10, giving feedback,0.125
+164,Testen,Persoonlijkheidstest,profiel test,profile test,7,personal test,0.625
+165,Evaluatie,geven,profile dynamics vragenlijst,profile dynamics questionnaire,10, giving feedback,0.218
+166,Testen,Persoonlijkheidstest,psychologische testen,psychological tests,7,personal test,0.725
+167,Testen,Persoonlijkheidstest,psychologische testen oefenen,practice psychological tests,7,personal test,0.646
+168,Testen,Persoonlijkheidstest,psychologische testen overzicht,psychological testing overview,7,personal test,0.626
+169,Testen,Persoonlijkheidstest,job test,job test,7,personal test,0.629
+170,Testen,Persoonlijkheidstest,aptitude test,aptitude test,7,personal test,0.512
+171,Testen,Persoonlijkheidstest,sollicitatietesten,job application tests,7,personal test,0.487
+172,Assessment,ppa,aptitude betekenis,aptitude meaning,24, does ppa mean,0.295
+173,Testen,Persoonlijkheidstest,candidate test,candidate test,7,personal test,0.624
+174,Testen,Persoonlijkheidstest,numerieke testen,numerical tests,7,personal test,0.434
+175,Testen,Persoonlijkheidstest,numerieke testen sollicitatie oefenen,numerical tests application practice,7,personal test,0.393
+176,Testen,Persoonlijkheidstest,numerieke testen hudson,numerical tests hudson,7,personal test,0.262
+177,Testen,Persoonlijkheidstest,numerieke inzicht test ltp,numerical insight test ltp,7,personal test,0.236
+178,Testen,Persoonlijkheidstest,numerieke testen tips,numerical testing tips,7,personal test,0.388
+179,Testen,Persoonlijkheidstest,nauwkeurigheidstest,accuracy test,7,personal test,0.559
+180,Assessment,ppa,accuratesse betekenis,accuracy meaning,24, does ppa mean,0.068
+181,Testen,Persoonlijkheidstest,accuratesse test,accuracy test,7,personal test,0.559
+182,Testen,Persoonlijkheidstest,snelheid en nauwkeurigheid test,speed and accuracy test,7,personal test,0.438
+183,Evaluatie,geven,potentieel,potential,10, giving feedback,0.260
+184,Assessment,ppa,capaciteiten betekenis,abilities meaning,24, does ppa mean,0.102
+185,Testen,Persoonlijkheidstest,capaciteitentest oefenen,practice ability test,7,personal test,0.532
+186,Testen,Persoonlijkheidstest,goede en slechte eigenschappen test,good and bad traits test,7,personal test,0.502
+187,Testen,Persoonlijkheidstest,sterke punten test,strengths test,7,personal test,0.486
+188,Testen,Persoonlijkheidstest,kwaliteiten test,qualities test,7,personal test,0.511
+189,Testen,Persoonlijkheidstest,capaciteitentest technisch inzicht,capability test technical insight,7,personal test,0.340
+190,Testen,Persoonlijkheidstest,planning ability test,planning ability test,7,personal test,0.469
+191,Testen,Persoonlijkheidstest,vlieger capaciteitentest 1,kite aptitude test 1,7,personal test,0.392
+192,Testen,Persoonlijkheidstest,technisch inzicht test,technical insight test,7,personal test,0.424
+193,Assessment,ppa,ruimtelijk inzicht betekenis,spatial awareness meaning,24, does ppa mean,0.128
+194,Testen,Persoonlijkheidstest,test ruimtelijk inzicht,test spatial awareness,7,personal test,0.463
+195,Training en ontwikkeling,training,assessment training,assessment training,18,assessment training,1.000
+196,Evaluatie,geven,ppa training,ppa training,10, giving feedback,0.198
+197,Evaluatie,geven,ppa training,ppa training,10, giving feedback,0.198
+198,Leiderschap,leiderschapstijlen,effectief leiderschap training,effective leadership training,17,leadership styles,0.614
+199,Evaluatie,geven,emotionele intelligentie training,emotional intelligence training,10, giving feedback,0.193
+200,Training en ontwikkeling,training,beste assessment training,beste assessment training,18,assessment training,0.797
+201,Training en ontwikkeling,training,assessment training review,assessment training review,18,assessment training,0.890
+202,Evaluatie,geven,recruitment trainingen,recruitment trainings,10, giving feedback,0.179
+203,Personeel,verandermanagement,trainingen verandermanagement,change management training,6,change management,0.831
+204,Testen,disc,disc training kosten,disc training costs,5,disc test,0.474
+205,Evaluatie,geven,training emotionele intelligentie,emotional intelligence training,10, giving feedback,0.193
+206,Training en ontwikkeling,training,assessment training,assessment training,18,assessment training,1.000
+207,Assessment,oefenen,assessment cursus,assessment cursus,9,practice assessment,0.341
+208,Training en ontwikkeling,training,beste assessment training,beste assessment training,18,assessment training,0.797
+209,Training en ontwikkeling,training,assessment training review,assessment training review,18,assessment training,0.890
+210,Training en ontwikkeling,zelfontwikkeling,zelfontwikkeling,self development,15,self development,1.000
+211,Training en ontwikkeling,zelfontwikkeling,zelfontwikkeling boeken,books self development,15,self development,0.799
+212,Training en ontwikkeling,zelfontwikkeling,zelfontwikkeling engels,self development english,15,self development,0.768
+213,Training en ontwikkeling,zelfontwikkeling,zelfontwikkeling betekenis,self development meaning,15,self development,0.891
+214,Training en ontwikkeling,zelfontwikkeling,persoonlijke zelfontwikkeling,personal self-development,15,self development,0.921
+215,Training en ontwikkeling,zelfontwikkeling,zelfontwikkeling tips,self development tips,15,self development,0.833
+216,Training en ontwikkeling,zelfontwikkeling,zelfontwikkeling competentie,self-development competence,15,self development,0.860
+217,Training en ontwikkeling,zelfontwikkeling,zelfontwikkeling cursus,self-development course,15,self development,0.802
+218,Training en ontwikkeling,zelfontwikkeling,verschil zelfontwikkeling en zelfontplooiing,difference self-development and self-development,15,self development,0.832
+219,Testen,Leiderschap,leiderschapskwaliteiten ontwikkelen,develop leadership qualities,21,leadership qualities,0.909
+220,Testen,Leiderschap,leiderschapskwaliteiten ontwikkelen,develop leadership qualities,21,leadership qualities,0.909
+221,Training en ontwikkeling,persoonlijke ontwikkeling,persoonlijkheid ontwikkelen,develop personality,1,describe personal development,0.657
+222,Training en ontwikkeling,zelfontwikkeling,zelfbewustzijn ontwikkelen,develop self-awareness,15,self development,0.650
+223,Personeel,nieuwe medewerker,competentie ontwikkelen medewerkers,developing employees' competence,3,new employees,0.564
+224,Training en ontwikkeling,persoonlijke ontwikkeling,opleiden en ontwikkelen personeel,train and develop staff,1,describe personal development,0.368
+225,Training en ontwikkeling,persoonlijke ontwikkeling,soft skills ontwikkelen,develop soft skills,1,describe personal development,0.417
+226,Training en ontwikkeling,persoonlijke ontwikkeling,emotionele intelligentie ontwikkelen,develop emotional intelligence,1,describe personal development,0.368
+227,Personeel,nieuwe medewerker,competentie ontwikkelen medewerkers,developing employees' competence,3,new employees,0.564
+228,Training en ontwikkeling,persoonlijke ontwikkeling,persoonlijke ontwikkeling medewerkers,personal development employees,1,describe personal development,0.706
+229,Personeel,nieuwe medewerker,ontwikkeling medewerkers,employee development,3,new employees,0.662
+230,Personeel,nieuwe medewerker,waarom ontwikkeling van medewerkers belangrijk, employee development is important,3,new employees,0.576
+231,Training en ontwikkeling,persoonlijke ontwikkeling,persoonlijke ontwikkeling,personal development,1,describe personal development,0.925
+232,Training en ontwikkeling,persoonlijke ontwikkeling,persoonlijke ontwikkeling voorbeelden,personal development examples,1,describe personal development,0.839
+233,Training en ontwikkeling,persoonlijke ontwikkeling,ontwikkeling persoonlijkheid,personality development,1,describe personal development,0.720
+234,Training en ontwikkeling,persoonlijke ontwikkeling,persoonlijke ontwikkeling medewerkers,personal development employees,1,describe personal development,0.706
+235,Personeel,nieuwe medewerker,ontwikkeling medewerkers,employee development,3,new employees,0.662
+236,Training en ontwikkeling,persoonlijke ontwikkeling,ontwikkelingsmogelijkheden,development opportunities,1,describe personal development,0.398
+237,Training en ontwikkeling,persoonlijke ontwikkeling,persoonlijke ontwikkeling werk,personal development work,1,describe personal development,0.847
+238,Training en ontwikkeling,persoonlijke ontwikkeling,onderwerpen persoonlijke ontwikkeling,subjects personal development,1,describe personal development,0.815
+239,Training en ontwikkeling,persoonlijke ontwikkeling,wat is persoonlijke ontwikkeling, personal development,1,describe personal development,0.925
+240,Training en ontwikkeling,persoonlijke ontwikkeling,persoonlijke ontwikkeling beschrijven,describe personal development,1,describe personal development,1.000
+241,Personeel,nieuwe medewerker,waarom ontwikkeling van medewerkers belangrijk, employee development is important,3,new employees,0.576
+242,Personeel,onboarding,onboarding,onboarding,11,onboarding employees,0.771
+243,Personeel,onboarding,onboarding proces,onboarding proces,11,onboarding employees,0.683
+244,Personeel,onboarding,wat is onboarding, onboarding,11,onboarding employees,0.771
+245,Personeel,onboarding,onboarding definitie,onboarding definition,11,onboarding employees,0.689
+246,Personeel,onboarding,onboarding tips,onboarding tips,11,onboarding employees,0.706
+247,Evaluatie,geven,high potential,high potential,10, giving feedback,0.144
+248,Evaluatie,geven,recruitmentproces,recruitmentproces,10, giving feedback,0.163
+249,Evaluatie,geven,wat is een recruiter, a recruiter,10, giving feedback,0.070
+250,Evaluatie,geven,recruitment oplossingen,recruitment solutions,10, giving feedback,0.131
+251,Evaluatie,geven,wat is recruitment, recruitment,10, giving feedback,0.180
+252,Evaluatie,geven,recruitment nederlands,recruitment dutch,10, giving feedback,0.112
+253,Evaluatie,geven,high potential programma,high potential programma,10, giving feedback,0.134
+254,Evaluatie,geven,identifying high potentials,identifying high potentials,10, giving feedback,0.031
+255,Evaluatie,geven,kosten recruitment,costs recruitment,10, giving feedback,0.079
+256,Evaluatie,geven,wervingsproces,recruitment process,10, giving feedback,0.156
+257,Evaluatie,geven,recruitment strategie,recruitment strategy,10, giving feedback,0.171
+258,Evaluatie,geven,recruitment strategien,recruitment strategies,10, giving feedback,0.162
+259,Personeel,nieuwe medewerker,medewerkers aantrekken,attract employees,3,new employees,0.617
+260,Evaluatie,geven,de juiste kandidaat selecteren,select the right candidate,10, giving feedback,0.145
+261,Assessment,oefenen,sollicitant beoordelen,assess applicant,9,practice assessment,0.494
+262,Testen,overige testen,sollicitatiegesprek voeren als werkgever,conducting a job interview as an employer,0, an assessment test,0.222
+263,Assessment,ppa,werving en selectie betekenis,recruitment and selection meaning,24, does ppa mean,0.106
+264,Evaluatie,geven,360graden,360graden,10, giving feedback,0.183
+265,Evaluatie,360 graden,360 graden feedback,360 degree feedback,2,feedback 360,0.761
+266,Evaluatie,360 graden,360 graden feedback,360 degree feedback,2,feedback 360,0.761
+267,Evaluatie,360 graden,360 graden evaluatie,360 degree evaluation,2,feedback 360,0.554
+268,Evaluatie,360 graden,360 grad feedback,360 grad feedback,2,feedback 360,0.720
+269,Evaluatie,360 graden,360 graden feedback voorbeeld antwoorden,360 degree feedback example answers,2,feedback 360,0.746
+270,Evaluatie,360 graden,360 graden feedback formulier werk,360 degree feedback form work,2,feedback 360,0.710
+271,Evaluatie,360 graden,360 graden feedback verslag voorbeeld,360 degree feedback report example,2,feedback 360,0.714
+272,Evaluatie,360 graden,wat is 360 graden feedback, 360 degree feedback,2,feedback 360,0.761
+273,Evaluatie,360 graden,360 graden feedback vragenlijst,360 degree feedback questionnaire,2,feedback 360,0.721
+274,Evaluatie,360 graden,360 graden feedback voorbeeld antwoorden,360 degree feedback example answers,2,feedback 360,0.746
+275,Evaluatie,360 graden,360 graden feedback geven,Giving 360 degree feedback,2,feedback 360,0.804
+276,Evaluatie,360 graden,360 graden feedback uitleg,360 degree feedback explanation,2,feedback 360,0.707
+277,Evaluatie,360 graden,360 graden analyse,360 degree analysis,2,feedback 360,0.480
+278,Evaluatie,360 graden,360 graden feedback gratis,360 degree feedback for free,2,feedback 360,0.767
+279,Evaluatie,360 graden,360 graden feedback formulier zorg,360 degree feedback form care,2,feedback 360,0.613
+280,Evaluatie,360 graden,360 graden feedback formulier,360 degree feedback form,2,feedback 360,0.704
+281,Evaluatie,360 graden,feedback 360,feedback 360,2,feedback 360,1.000
+282,Evaluatie,360 graden,360 graden feedback invullen,Fill in 360 degree feedback,2,feedback 360,0.728
+283,Evaluatie,360 graden,360 feedback formulier,360 feedback form,2,feedback 360,0.832
+284,Evaluatie,360 graden,360 graden feedback medewerkers,360 degree feedback employees,2,feedback 360,0.649
+285,Evaluatie,360 graden,360 graden feedback vragenlijst gratis,360 degree feedback questionnaire for free,2,feedback 360,0.686
+286,Evaluatie,360 graden,instrument 360 graden feedback,instrument 360 degree feedback,2,feedback 360,0.555
+287,Evaluatie,360 graden,vragen 360 graden feedback,ask 360 degree feedback,2,feedback 360,0.829
+288,Evaluatie,360 graden,doel 360 graden feedback,target 360 degree feedback,2,feedback 360,0.686
+289,Evaluatie,360 graden,360 graden feedback voorbeeld vragen,360 degree feedback example questions,2,feedback 360,0.743
+290,Evaluatie,360 graden,360 graden feedback voorbeeld,360 degree feedback example,2,feedback 360,0.714
+291,Evaluatie,360 graden,360 graden beoordeling,360 degree review,2,feedback 360,0.695
+292,Evaluatie,360 graden,360 graden feedback formulier leiderschap,360 degree leadership feedback form,2,feedback 360,0.581
+293,Evaluatie,360 graden,360 graden feedback test,360 degree feedback test,2,feedback 360,0.630
+294,Evaluatie,geven,360 beoordeling,360 rating,10, giving feedback,0.347
+295,Evaluatie,360 graden,360 graden feedback systeem,360 degree feedback system,2,feedback 360,0.645
+296,Evaluatie,360 graden,feedback 360 graden,feedback 360 degrees,2,feedback 360,0.795
+297,Evaluatie,functioneringsgesprek,functioneringsgesprek voorbereiden,prepare performance interview,22,prepare performance interview,1.000
+298,Evaluatie,geven,functioneringsgesprek tips,performance appraisal tips,10, giving feedback,0.398
+299,Evaluatie,functioneringsgesprek,verbeterpunten functioneringsgesprek,points for improvement performance interview,22,prepare performance interview,0.755
+300,Evaluatie,functioneringsgesprek,voorbereiden op functioneringsgesprek,preparing for performance interview,22,prepare performance interview,0.954
+301,Evaluatie,functioneringsgesprek,vragen tijdens functioneringsgesprek,questions during performance interview,22,prepare performance interview,0.817
+302,Evaluatie,geven,doel functioneringsgesprek,target performance review,10, giving feedback,0.360
+303,Evaluatie,geven,voordelen functioneringsgesprek,benefits performance appraisal,10, giving feedback,0.341
+304,Evaluatie,geven,het functioneringsgesprek,the performance review,10, giving feedback,0.478
+305,Evaluatie,geven,onderwerpen functioneringsgesprek,topics performance review,10, giving feedback,0.410
+306,Training en ontwikkeling,persoonlijke ontwikkeling,persoonlijke evaluatie voorbeeld,personal evaluation example,1,describe personal development,0.441
+307,Evaluatie,geven,positieve feedback voorbeelden,positive feedback examples,10, giving feedback,0.719
+308,Evaluatie,geven,opbouwende feedback voorbeelden,constructive feedback examples,10, giving feedback,0.707
+309,Evaluatie,geven,feedback formulier voorbeeld,feedback form example,10, giving feedback,0.714
+310,Evaluatie,voorbeeld,evaluatie vragenlijst voorbeeld,evaluation questionnaire example,12,evaluation questionnaire example,1.000
+311,Evaluatie,geven,feedback samenwerken voorbeeld,feedback collaboration example,10, giving feedback,0.718
+312,Evaluatie,voorbeeld,evaluatie vragenlijst voorbeeld,evaluation questionnaire example,12,evaluation questionnaire example,1.000
+313,Evaluatie,voorbeeld,evaluatie vragenlijst voorbeeld,evaluation questionnaire example,12,evaluation questionnaire example,1.000
+314,Evaluatie,geven,waarom feedback vragen, ask for feedback,10, giving feedback,0.881
+315,Evaluatie,geven,feedback vragenlijst,feedback questionnaire,10, giving feedback,0.756
+316,Evaluatie,geven,feedback vragen model,ask for feedback model,10, giving feedback,0.779
+317,Evaluatie,geven,feedback vragen over samenwerken,ask for feedback on collaboration,10, giving feedback,0.690
+318,Evaluatie,functioneringsgesprek,vragen tijdens functioneringsgesprek,questions during performance interview,22,prepare performance interview,0.817
+319,Evaluatie,geven,feedback vragenlijst,feedback questionnaire,10, giving feedback,0.756
+320,Evaluatie,geven,feedback geven,to give feedback,10, giving feedback,0.820
+321,Evaluatie,geven,feedback geven en ontvangen,giving and receiving feedback,10, giving feedback,0.940
+322,Evaluatie,geven,wat is feedback geven, giving feedback,10, giving feedback,1.000
+323,Testen,Leiderschap,leiderschapskwaliteiten,leadership qualities,21,leadership qualities,1.000
+324,Testen,Leiderschap,wat zijn leiderschapskwaliteiten, are leadership qualities,21,leadership qualities,0.950
+325,Testen,Leiderschap,goede leiderschapskwaliteiten,good leadership qualities,21,leadership qualities,0.938
+326,Testen,Leiderschap,welke leiderschapskwaliteiten zijn er, leadership qualities are there,21,leadership qualities,0.961
+327,Leiderschap,leiderschapstijlen,leiderschapsstijlen,leadership styles,17,leadership styles,1.000
+328,Leiderschap,leiderschapstijlen,situationeel leiderschap,situational leadership,17,leadership styles,0.673
+329,Leiderschap,leiderschapstijlen,4 leiderschapsstijlen,4 leadership styles,17,leadership styles,0.892
+330,Leiderschap,leiderschapstijlen,directief leiderschap,directive leadership,17,leadership styles,0.547
+331,Leiderschap,leiderschapstijlen,soorten leiderschapsstijlen covey,types of leadership styles covey,17,leadership styles,0.892
+332,Leiderschap,leiderschapstijlen,ondersteunend leiderschap,supportive leadership,17,leadership styles,0.666
+333,Testen,Leiderschap,leiderschapskwaliteiten,leadership qualities,21,leadership qualities,1.000
+334,Evaluatie,geven,goede leider,good leader,10, giving feedback,0.251
+335,Evaluatie,geven,eigenschappen leider,traits leader,10, giving feedback,0.130
+336,Evaluatie,geven,eigenschappen van een leider,qualities of a leader,10, giving feedback,0.183
+337,Evaluatie,geven,slechte eigenschappen leider,bad qualities leader,10, giving feedback,0.195
+338,Testen,Leiderschap,wat zijn leiderschapskwaliteiten, are leadership qualities,21,leadership qualities,0.950
+339,Testen,Leiderschap,welke leiderschapskwaliteiten zijn er, leadership qualities are there,21,leadership qualities,0.961
+340,Testen,Leiderschap,goede leiderschapskwaliteiten,good leadership qualities,21,leadership qualities,0.938
+341,Leiderschap,leiderschapstijlen,persoonlijk leiderschap,personal leadership,17,leadership styles,0.714
+342,Leiderschap,leiderschapstijlen,soorten leiderschap,types of leadership,17,leadership styles,0.834
+343,Leiderschap,leiderschapstijlen,wat is leiderschap, leadership,17,leadership styles,0.777
+344,Leiderschap,leiderschapstijlen,ontwikkeling leiderschap,leadership development,17,leadership styles,0.722
+345,Leiderschap,leiderschapstijlen,waarom is leiderschap belangrijk, leadership important,17,leadership styles,0.676
+346,Leiderschap,leiderschapstijlen,leiderschap ontwikkelen,developing leadership,17,leadership styles,0.722
+347,Leiderschap,leiderschapstijlen,wat is goed leiderschap, good leadership,17,leadership styles,0.654
+348,Leiderschap,leiderschapstijlen,leiderschap verbeteren,improve leadership,17,leadership styles,0.708
+349,Leiderschap,leiderschapstijlen,wat is effectief leiderschap, effective leadership,17,leadership styles,0.701
+350,Leiderschap,leiderschapstijlen,kenmerken goed leiderschap,characteristics of good leadership,17,leadership styles,0.756
+351,Leiderschap,leiderschapstijlen,goed leiderschap kenmerken,good leadership characteristics,17,leadership styles,0.772
+352,Leiderschap,leiderschapstijlen,kenmerken van leiderschap,characteristics of leadership,17,leadership styles,0.803
+353,Leiderschap,leiderschapstijlen,visie op leiderschap,vision on leadership,17,leadership styles,0.626
+354,Evaluatie,geven,goede leiders voorbeelden,good leaders examples,10, giving feedback,0.237
+355,Software,tool,hr rapporten,hr reports,20,hr tools,0.715
+356,Software,tool,hr rapportage voorbeeld,hr reporting example,20,hr tools,0.635
+357,Software,tool,hr tools,hr tools,20,hr tools,1.000
+358,Evaluatie,geven,talent tool,talent tool,10, giving feedback,0.316
+359,Software,tool,hr tools voorbeelden,hr tools examples,20,hr tools,0.944
+360,Software,tool,wat zijn hr tools, are hr tools,20,hr tools,0.929
+361,Software,tool,hr tools gratis,hr tools gratis,20,hr tools,0.935
+362,Software,tool,hr software,hr software,20,hr tools,0.883
+363,Evaluatie,360 graden,360 graden feedback software,360 degree feedback software,2,feedback 360,0.693
+364,Personeel,verandermanagement,competentiemanagement software,competency management software,6,change management,0.331
+365,Software,tool,beste hr software,best HR software,20,hr tools,0.817
+366,Evaluatie,geven,rekrutering software,recruitment software,10, giving feedback,0.141
+367,Evaluatie,geven,werken op afstand,working remotely,10, giving feedback,0.131
+368,Evaluatie,geven,afstand werken,working remotely,10, giving feedback,0.131
+369,Evaluatie,geven,op afstand werken,work remotely,10, giving feedback,0.119
+370,Evaluatie,geven,managen op afstand,remote management,10, giving feedback,0.168
+371,Evaluatie,geven,communiceren op afstand,communicate remotely,10, giving feedback,0.175
+372,Personeel,team,high performance team,high performance team,8,team performance,0.789
+373,Personeel,team,team charter,team charter,8,team performance,0.505
+374,Personeel,team,team performance,team performance,8,team performance,1.000
+375,Personeel,team,team motiveren,motivate team,8,team performance,0.629
+376,Personeel,team,waarom is communicatie belangrijk in een team, communication important in a team,8,team performance,0.622
+377,Personeel,team,teamdynamiek verbeteren,improve team dynamics,8,team performance,0.646
+378,Personeel,team,teamdynamiek betekenis,team dynamics meaning,8,team performance,0.553
+379,Personeel,team,high performing teams lencioni,high performing teams lencioni,8,team performance,0.620
+380,Personeel,team,kenmerken high performance team,features high performance team,8,team performance,0.648
+381,Personeel,team,wat is teamontwikkeling, team development,13, team development,1.000
+382,Personeel,team,teamontwikkeling tuckman,team development tuckman,13, team development,0.610
+383,Personeel,team,teamontwikkeling training,team development training,13, team development,0.881
+384,Personeel,team,teamontwikkeling betekenis,team development meaning,13, team development,0.878
+385,Personeel,team,teamontwikkeling definitie,team development definition,13, team development,0.867
+386,Evaluatie,geven,leiderschapsteam,unfortunately schapsteam,10, giving feedback,0.053
+387,Personeel,team,performance team,performance team,8,team performance,0.810
+388,Personeel,team,wat is een goed team, a good team,8,team performance,0.570
+389,Personeel,team,team beter laten functioneren,make the team function better,8,team performance,0.634
+390,Personeel,team,doelstellingen team,team goals,8,team performance,0.655
+391,Personeel,team,communicatie verbeteren in een team,improve communication in a team,8,team performance,0.584
+392,Personeel,team,team doelstellingen,team goals,8,team performance,0.655
+393,Personeel,team,kenmerken van een team,characteristics of a team,8,team performance,0.729
+394,Personeel,team,succesvolle teams,successful teams,8,team performance,0.696
+395,Personeel,team,voorbeeld succesvol team,example successful team,8,team performance,0.659
+396,Personeel,team,sterke teams,strong teams,8,team performance,0.635
+397,Personeel,team,communicatie team verbeteren,improve communication team,8,team performance,0.504
+398,Personeel,team,verbeteren van teams,improving teams,8,team performance,0.740
+399,Personeel,team,kwaliteiten team,qualities team,8,team performance,0.590
+400,Personeel,team,team opbouwen,building a team,8,team performance,0.680
+401,Personeel,team,vertrouwen herstellen in team,restore trust in team,8,team performance,0.405
+402,Evaluatie,geven,teamwork verbeteren,improve teamwork,10, giving feedback,0.373
+403,Personeel,team,team ontwikkelen,developing a team,13, team development,0.902
+404,Personeel,team,team functioneert niet,team is not functioning,8,team performance,0.610
+405,Personeel,team,de kracht van high performance teams,the power of high performance teams,8,team performance,0.763
+406,Evaluatie,geven,welkom nieuwe collega,welcome new colleague,10, giving feedback,0.171
+407,Personeel,nieuwe medewerker,introductietekst nieuwe medewerker voorbeeld,introduction text new employee example,3,new employees,0.644
+408,Personeel,nieuwe medewerker,nieuwe medewerkers,new employees,3,new employees,1.000
+409,Personeel,nieuwe medewerker,verwelkoming nieuwe medewerker,welcome new employee,3,new employees,0.798
+410,Personeel,nieuwe medewerker,welkomstpakket nieuwe medewerker,welcome package new employee,3,new employees,0.699
+411,Personeel,onboarding,onboarding nieuwe medewerkers,onboarding new employees,11,onboarding employees,0.906
+412,Personeel,nieuwe medewerker,nieuwe medewerker welkom heten,welcome new employee,3,new employees,0.798
+413,Evaluatie,geven,welkom nieuwe collega kaart,welcome new colleague card,10, giving feedback,0.113
+414,Personeel,nieuwe medewerker,nieuwe medewerkers welkom heten,welcoming new employees,3,new employees,0.814
+415,Personeel,nieuwe medewerker,introductie nieuwe medewerker,introduction new employee,3,new employees,0.799
+416,Evaluatie,geven,nieuwe collega welkom heten,welcome new colleague,10, giving feedback,0.171
+417,Personeel,nieuwe medewerker,vragenlijst nieuwe medewerker,questionnaire new employee,3,new employees,0.653
+418,Evaluatie,geven,nieuwe collega welkom heten tekst,welcome new colleague text,10, giving feedback,0.171
+419,Evaluatie,geven,nieuwe collega ontvangen,receive a new colleague,10, giving feedback,0.195
+420,Personeel,onboarding,onboarding nieuwe medewerkers,onboarding new employees,11,onboarding employees,0.906
+421,Personeel,onboarding,onboarding programma,onboarding program,11,onboarding employees,0.699
+422,Personeel,onboarding,onboarding film,onboarding film,11,onboarding employees,0.470
+423,Personeel,onboarding,onboarding op afstand,remote onboarding,11,onboarding employees,0.492
+424,Personeel,onboarding,onboarding kosten,onboarding costs,11,onboarding employees,0.578
+425,Personeel,onboarding,onboarding onderzoek,onboarding research,11,onboarding employees,0.686
+426,Personeel,onboarding,trends onboarding,trends onboarding,11,onboarding employees,0.659
+427,Personeel,onboarding,onboarding strategie,onboarding strategy,11,onboarding employees,0.734
+428,Personeel,onboarding,onboarding medewerkers,onboarding employees,11,onboarding employees,1.000
+429,Personeel,onboarding,waarom onboarding, onboarding,11,onboarding employees,0.771
+430,Personeel,nieuwe medewerker,medewerkers motiveren,motivate employees,3,new employees,0.521
+431,Personeel,nieuwe medewerker,motiveren van medewerkers,motivating employees,3,new employees,0.519
+432,Personeel,nieuwe medewerker,medewerkers motiveren,motivate employees,3,new employees,0.521
+433,Personeel,nieuwe medewerker,motiveren van medewerkers,motivating employees,3,new employees,0.519
+434,Personeel,nieuwe medewerker,betrokkenheid medewerkers,employee involvement,3,new employees,0.561
+435,Personeel,nieuwe medewerker,betrokkenheid medewerkers stimuleren,stimulate employee involvement,3,new employees,0.511
+436,Personeel,nieuwe medewerker,medewerkers betrekken bij organisatie,involving employees in the organization,3,new employees,0.633
+437,Personeel,nieuwe medewerker,betrokkenheid medewerkers stimuleren,stimulate employee involvement,3,new employees,0.511
+438,Personeel,nieuwe medewerker,faciliteren medewerkers,facilitate employees,3,new employees,0.578
+439,Personeel,nieuwe medewerker,medewerkersbetrokkenheid vergroten,increase employee engagement,3,new employees,0.442
+440,Personeel,nieuwe medewerker,medewerkersbetrokkenheidsonderzoek,employee engagement survey,3,new employees,0.420
+441,Personeel,nieuwe medewerker,betrokken medewerkers theorie,involved employees theory,3,new employees,0.553
+442,Personeel,nieuwe medewerker,motivatiefactoren medewerkers,motivation factors employees,3,new employees,0.437
+443,Personeel,nieuwe medewerker,betrokkenheid medewerkers theorie,employee engagement theory,3,new employees,0.469
+444,Personeel,nieuwe medewerker,medewerkers behouden,retain employees,3,new employees,0.590
+445,Personeel,nieuwe medewerker,retentie van medewerkers,employee retention,3,new employees,0.514
+446,Evaluatie,voorbeeld,medewerkerstevredenheidsonderzoek vragenlijst voorbeeld,employee satisfaction survey questionnaire example,12,evaluation questionnaire example,0.598
+447,Personeel,nieuwe medewerker,werknemers betrokkenheid,employee engagement,3,new employees,0.489
+448,Personeel,nieuwe medewerker,betrokkenheid werknemers,employee involvement,3,new employees,0.561
+449,Evaluatie,geven,betrokkenheid organisatie,involvement organization,10, giving feedback,0.234
+450,Personeel,nieuwe medewerker,werknemers motiveren beloning,employees motivate reward,3,new employees,0.446
+451,Evaluatie,voorbeeld,tevredenheidsonderzoek vragenlijst voorbeeld,satisfaction survey questionnaire example,12,evaluation questionnaire example,0.700
+452,Personeel,nieuwe medewerker,vragenlijst motivatie medewerkers,employee motivation questionnaire,3,new employees,0.423
+453,Personeel,nieuwe medewerker,vragenlijst nieuwe medewerker,questionnaire new employee,3,new employees,0.653
+454,Evaluatie,voorbeeld,werktevredenheid vragenlijst,job satisfaction questionnaire,12,evaluation questionnaire example,0.508
+455,Evaluatie,voorbeeld,medewerkerstevredenheidsonderzoek vragenlijst voorbeeld,employee satisfaction survey questionnaire example,12,evaluation questionnaire example,0.598
+456,Personeel,nieuwe medewerker,vragenlijst motivatie medewerkers,employee motivation questionnaire,3,new employees,0.423
+457,Personeel,weerstand,weerstand tegen verandering,resistance to change,14,resistance to change,1.000
+458,Personeel,weerstand,omgaan met weerstand model,dealing with resistance model,23,dealing with resistance model,1.000
+459,Personeel,weerstand,weerstand verandering,resistance change,14,resistance to change,0.860
+460,Personeel,weerstand,weerstand bij verandering model,resistance to model change,14,resistance to change,0.789
+461,Personeel,weerstand,weerstand bij verandering kotter,resistance to change cutter,14,resistance to change,0.660
+462,Personeel,weerstand,omgaan met weerstand model,dealing with resistance model,23,dealing with resistance model,1.000
+463,Personeel,weerstand,omgaan met weerstand bij verandering,dealing with resistance to change,14,resistance to change,0.924
+464,Personeel,weerstand,weerstand bij veranderingsprocessen,resistance to change processes,14,resistance to change,0.790
+465,Personeel,weerstand,weerstand bij verandering,resistance to change,14,resistance to change,1.000
+466,Personeel,weerstand,definitie weerstand bij veranderingen,definition resistance to change,14,resistance to change,0.900
+467,Personeel,weerstand,weerstand bij veranderingen,resistance to change,14,resistance to change,1.000
+468,Personeel,verandermanagement,verandermanagement,change management,6,change management,1.000
+469,Personeel,verandermanagement,verandermanagement modellen,change management models,6,change management,0.873
+470,Personeel,verandermanagement,waarom verandermanagement, change management,6,change management,1.000
+471,Personeel,verandermanagement,waarom verandermanagement, change management,6,change management,1.000
+472,Personeel,verandermanagement,wat is verandermanagement, change management,6,change management,1.000
+473,Personeel,verandermanagement,verandermanagement betekenis,change management meaning,6,change management,0.913
+474,Personeel,verandermanagement,verandermanagement definitie,change management definition,6,change management,0.904
+475,Personeel,verandermanagement,verandermanagement modellen kotter,change management models cutter,6,change management,0.692
+476,Personeel,verandermanagement,wat is verandermanagement, change management,6,change management,1.000
+477,Personeel,verandermanagement,verandermanagement definitie,change management definition,6,change management,0.904
+478,Personeel,verandermanagement,verandermanagement communicatie,change management communication,6,change management,0.854
+479,Personeel,verandermanagement,theorie verandermanagement,theory change management,6,change management,0.763
+480,Personeel,weerstand,weerstand tegen verandering,resistance to change,14,resistance to change,1.000
+481,Personeel,weerstand,weerstand verandering,resistance change,14,resistance to change,0.860
+482,Personeel,weerstand,weerstand bij verandering model,resistance to model change,14,resistance to change,0.789
+483,Personeel,weerstand,weerstand bij verandering kotter,resistance to change cutter,14,resistance to change,0.660
+484,Personeel,verandermanagement,verandering in organisatie,change in organization,6,change management,0.738
+485,Personeel,verandermanagement,organisatieverandering voorbeelden,organizational change examples,6,change management,0.665
+486,Personeel,weerstand,omgaan met weerstand bij verandering,dealing with resistance to change,14,resistance to change,0.924
+487,Personeel,weerstand,weerstand bij veranderingsprocessen,resistance to change processes,14,resistance to change,0.790
+488,Personeel,verandermanagement,organisatie en verandering,organization and change,6,change management,0.729
+489,Personeel,weerstand,weerstand bij verandering,resistance to change,14,resistance to change,1.000
+490,Personeel,weerstand,definitie weerstand bij veranderingen,definition resistance to change,14,resistance to change,0.900
+491,Personeel,weerstand,weerstand bij veranderingen,resistance to change,14,resistance to change,1.000
+492,Personeel,verandermanagement,veranderingsprocessen in organisaties,change processes in organizations,6,change management,0.731
+493,Personeel,verandermanagement,veranderingen in organisaties,changes in organizations,6,change management,0.702
+494,Personeel,verandermanagement,organisatieverandering definitie,organizational change definition,6,change management,0.687
+495,Evaluatie,geven,voordelen diversiteit,benefits diversity,10, giving feedback,0.162
+496,Evaluatie,geven,voordelen diversiteit in de samenleving,benefits diversity in society,10, giving feedback,0.134
+497,Evaluatie,geven,diversiteit personeelsbestand,workforce diversity,10, giving feedback,0.135
+498,Evaluatie,geven,culturele diversiteit op het werk,cultural diversity at work,10, giving feedback,0.128
+499,Evaluatie,geven,wat is culturele diversiteit, cultural diversity,10, giving feedback,0.126
+500,Evaluatie,geven,voordelen van diversiteit,benefits of diversity,10, giving feedback,0.140
+501,Evaluatie,geven,voordelen culturele diversiteit,benefits of cultural diversity,10, giving feedback,0.120
+502,Software,tool,successieplanning hr,succession planning hr,20,hr tools,0.462
+503,Software,tool,hr blog,hr blog,20,hr tools,0.642
+504,Software,tool,hr whitepapers,hr whitepapers,20,hr tools,0.661
+505,Software,tool,hr onderzoeken,hr research,20,hr tools,0.732
+506,Software,tool,succession planning hr,succession planning hr,20,hr tools,0.462
+507,Evaluatie,geven,wat is talent, talent,10, giving feedback,0.288
+508,Evaluatie,geven,talent management definitie,talent management definition,10, giving feedback,0.159
+509,Evaluatie,geven,talent management vacature,talent management vacancy,10, giving feedback,0.151
+510,Evaluatie,geven,talent strategie,talent strategy,10, giving feedback,0.295
+511,Assessment,ppa,talent management betekenis,talent management meaning,24, does ppa mean,0.095
+512,Evaluatie,geven,talentmanagement in de praktijk,talent management in practice,10, giving feedback,0.260
+513,Evaluatie,geven,talent management strategie,talent management strategy,10, giving feedback,0.215
+514,Evaluatie,geven,waarom talentmanagement, talent management,10, giving feedback,0.261
+515,Evaluatie,geven,strategisch talentmanagement,strategic talent management,10, giving feedback,0.182
+516,Personeel,nieuwe medewerker,beloningssysteem werknemers,employee reward system,3,new employees,0.463
+517,Personeel,nieuwe medewerker,beloning werknemers,remuneration employees,3,new employees,0.458
+518,Personeel,nieuwe medewerker,werknemers belonen,reward employees,3,new employees,0.562
+519,Personeel,nieuwe medewerker,werknemers motiveren beloning,employees motivate reward,3,new employees,0.446
+520,Personeel,nieuwe medewerker,hoe werknemers belonen,how to reward employees,3,new employees,0.461
+521,Personeel,nieuwe medewerker,medewerkers belonen,reward employees,3,new employees,0.562
+522,Evaluatie,geven,personeel belonen,reward staff,10, giving feedback,0.340
+523,Evaluatie,geven,personeelsverloop,staff turnover,10, giving feedback,0.265
+524,Evaluatie,geven,hoog personeelsverloop,high staff turnover,10, giving feedback,0.252
+525,Evaluatie,geven,oorzaken personeelsverloop,causes of staff turnover,10, giving feedback,0.175
+526,Personeel,nieuwe medewerker,personeelsverloop berekenen,calculate employee turnover,3,new employees,0.411
+527,Assessment,ppa,ppa betekenis,ppa meaning,24, does ppa mean,0.967
+528,Testen,Persoonlijkheidstest,ppa test,ppa test,7,personal test,0.555
+529,Assessment,oefenen,ppa assessment,ppa assessment,9,practice assessment,0.415
+530,Evaluatie,geven,thomas international ppa,thomas international ppa,10, giving feedback,0.109
+531,Assessment,ppa,ppa meaning,ppa meaning,24, does ppa mean,0.967
+532,Assessment,oefenen,ppa assessment tips,ppa assessment tips,9,practice assessment,0.488
+533,Assessment,oefenen,ppa assessment voorbeeld,ppa assessment example,9,practice assessment,0.429
+534,Evaluatie,geven,ppa vragenlijst,ppa questionnaire,10, giving feedback,0.275
+535,Evaluatie,geven,ppa nederland,ppa nederland,10, giving feedback,0.151
+536,Assessment,ppa,ppa disc meaning,ppa disc meaning,24, does ppa mean,0.764
+537,Evaluatie,geven,ppa school,ppa school,10, giving feedback,0.105
+538,Assessment,ppa,wat betekent ppa, does ppa mean,24, does ppa mean,1.000
+539,Evaluatie,geven,wat is ppa, ppa,10, giving feedback,0.176
+540,Training en ontwikkeling,persoonlijke ontwikkeling,persoonlijke profiel analyse,personal profile analysis,1,describe personal development,0.468
+541,Assessment,oefenen,assessment oefenen,practice assessment,9,practice assessment,1.000
+542,Assessment,oefenen,assessment tests oefenen,practice assessment tests,9,practice assessment,0.931
+543,Assessment,oefenen,assessment oefenen gratis,assessment practice for free,9,practice assessment,0.743
+544,Assessment,oefenen,assessments oefenen gratis,assessments practice for free,9,practice assessment,0.711
+545,Assessment,oefenen,ltp assessment oefenen gratis,ltp assessment practice for free,9,practice assessment,0.535
+546,Testen,Persoonlijkheidstest,psychometrische test oefenen,practice psychometric test,7,personal test,0.599
+547,Assessment,oefenen,assessment oefenen ltp,practice assessment ltp,9,practice assessment,0.760
+548,Assessment,oefenen,assessment oefenen boek,assessment practice book,9,practice assessment,0.769
+549,Assessment,oefenen,gia assessment oefenen,practice gia assessment,9,practice assessment,0.311
+550,Assessment,oefenen,ontwikkel assessment oefenen,development assessment practice,9,practice assessment,0.685
+551,Assessment,oefenen,online assessment oefenen,practice online assessment,9,practice assessment,0.702
+552,Assessment,oefenen,ontwikkelingsassessment oefenen,practice development assessment,9,practice assessment,0.842
+553,Testen,disc,disc kleuren,disc colors,5,disc test,0.624
+554,Testen,disc,disc model test,disc model test,5,disc test,0.892
+555,Testen,disc,disc analyse,disc analyse,5,disc test,0.709
+556,Testen,disc,disc test kopen,disc test kopen,5,disc test,0.801
+557,Testen,disc,disc vragenlijst pdf,disc questionnaire pdf,5,disc test,0.679
+558,Testen,disc,disc theorie,disc theorie,5,disc test,0.599
+559,Testen,disc,disc profiel uitleg,disc profile explanation,5,disc test,0.608
+560,Testen,disc,disc nederlands,disc nederlands,5,disc test,0.388
+561,Testen,disc,disc analyse 4 profielen,disc analysis 4 profiles,5,disc test,0.648
+562,Testen,disc,disc certificering,disc certificering,5,disc test,0.617
+563,Assessment,oefenen,assessment center,assessment center,9,practice assessment,0.579
+564,Assessment,oefenen,assessment center betekenis,assessment center meaning,9,practice assessment,0.538
+565,Assessment,oefenen,assessment center hudson,assessment center hudson,9,practice assessment,0.455
+566,Assessment,oefenen,assessment center antwerpen,assessment center antwerp,9,practice assessment,0.540
+567,Assessment,oefenen,assessment center methode,assessment center methode,9,practice assessment,0.652
+568,Testen,overige testen,wat is een assessment center, an assessment center,0, an assessment test,0.713
+569,Evaluatie,geven,gia antwerpen,gia antwerp,10, giving feedback,0.132
+570,Evaluatie,geven,gia certificaat,gia certificate,10, giving feedback,0.033
+571,Assessment,oefenen,gia assessment,gia assessment,9,practice assessment,0.227
+572,Evaluatie,geven,gia check,gia check,10, giving feedback,0.147
+573,Evaluatie,geven,gia rapport,already rapport,10, giving feedback,0.236
+574,Assessment,oefenen,gia assessment tips,gia assessment tips,9,practice assessment,0.270
+575,Assessment,oefenen,assessment voorbeeld,assessment example,9,practice assessment,0.676
+576,Assessment,oefenen,ontwikkelassessment voorbeeld,development assessment example,9,practice assessment,0.571
+577,Assessment,oefenen,ait assessment voorbeeld,ait assessment example,9,practice assessment,0.417
+578,Assessment,oefenen,online assessment,online assessment,9,practice assessment,0.579
+579,Training en ontwikkeling,training,online assessment training,online assessment training,18,assessment training,0.807
+580,Testen,overige testen,wat is een online assessment, an online assessment,0, an assessment test,0.713
