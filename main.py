@@ -20,13 +20,13 @@ pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 
 # Create and configure logger
-logging.basicConfig(filename="Information.log",
-                    format="%(asctime)s %(name)-12s %(levelname)-8s %(message)s",
-                    datefmt="%d-%b-%y %H:%M:%S")
+# logging.basicConfig(filename="Information.log",
+#                     format="%(asctime)s %(name)-12s %(levelname)-8s %(message)s",
+#                     datefmt="%d-%b-%y %H:%M:%S")
 
 # Creating an object
-logger = logging.getLogger()
-logger.setLevel(logging.DEBUG)
+# logger = logging.getLogger()
+# logger.setLevel(logging.DEBUG)
 
 # keywords_df = pd.read_csv('D:\\Tutorials\\Streamlit\\data\\KWR_Thomas_trans.csv', sep=',')
 #
@@ -172,8 +172,7 @@ def clustering(data, Keyword_ENG, start_cluster, end_cluster, steps, cutoff):
             z = df_3.groupby(['cluster'])['Semantic_score'].mean()
             A = z[z < cutoff]
             print("DATA WITH {} CLUSTERS WAS GENERATED. HOWEVER CLUSTERS {} WERE NOISY".format(num_cl, A.index.values))
-            logger.info(
-                "DATA WITH {} CLUSTERS WAS GENERATED. HOWEVER CLUSTERS {} WERE NOISY".format(num_cl, A.index.values))
+            # logger.info(  "DATA WITH {} CLUSTERS WAS GENERATED. HOWEVER CLUSTERS {} WERE NOISY".format(num_cl, A.index.values))
 
             dic[cl_num] = df_3
 
@@ -283,8 +282,7 @@ def clustering_sub_topic(data, Keyword_ENG, start_cluster, end_cluster, steps, c
             A = z[z < cutoff]
             X = len(A.index.values)
             print("NOISY CLUSTERS FOR CLUSTER CUTOFF {} ARE : {}".format(num_cl, A.index.values))
-            logger.info(
-                " CLUSTERS :{} *** ARE NOT COMPACT WHEN USING {} AS CUTOFF LEVEL".format(A.index.values, num_cl))
+            # logger.info( " CLUSTERS :{} *** ARE NOT COMPACT WHEN USING {} AS CUTOFF LEVEL".format(A.index.values, num_cl))
 
             dic[cl_num] = df_3
             if X == 0:
