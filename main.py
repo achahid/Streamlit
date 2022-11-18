@@ -1,6 +1,6 @@
 
 
-
+#streamlit run main.py
 
 import streamlit as st
 import nltk
@@ -370,11 +370,12 @@ pick_data_cl = st.checkbox('Select keyword data to cluster')
 
 if pick_data_cl:
     uploaded_file_cl = st.file_uploader("Upload data", type=['csv'])
+
     with NamedTemporaryFile(dir='.\\data', suffix='.csv') as f:
         filename = f.name
         separator = 'data'
-        file_path = filename.split(separator, 1)[0]+separator
-        st.write(file_path)
+        file_path = filename.split(separator, 1)[0]#+separator
+        # st.write(file_path)
 
         # Create a folder called CLUSTERING_RESULTS. where we can store our clustering results.
         newpath = file_path +'\\CLUSTERING_RESULTS'
