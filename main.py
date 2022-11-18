@@ -7,7 +7,7 @@ import nltk
 import pandas as pd
 import os
 from nltk.stem.snowball import SnowballStemmer
-from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.cluster import KMeans
 
 pd.options.mode.chained_assignment = None
@@ -132,8 +132,7 @@ def clustering(data, Keyword_ENG, start_cluster, end_cluster, steps, cutoff):
 
             labeled_df['Semantic_score'] = x
 
-            dt = labeled_df[
-                ['id', 'Topic', 'SubTopic', 'Keyword_x', 'Keyword_ENG', 'cluster', 'Lables', 'Semantic_score']].copy()
+            dt = labeled_df[ ['id', 'Topic', 'SubTopic', 'Keyword_x', 'Keyword_ENG', 'cluster', 'Lables', 'Semantic_score']].copy()
             df_0 = dt.groupby('cluster')['Semantic_score'].max().reset_index()
             df_1 = pd.merge(dt, df_0, on="cluster", how="left")
             df_1.rename(columns={'Semantic_score_y': 'high_score', 'Semantic_score_x': 'Semantic_score',
@@ -313,7 +312,7 @@ def re_scoring(df):
     z = df.groupby(['cluster'])['Semantic_score'].mean()
     A = z[z < 0.5]
     print("THIS CLUSTERS {} WERE NOISY".format(A.index.values))
-    logger.info("THIS CLUSTERS {} WERE NOISY".format(A.index.values))
+    #logger.info("THIS CLUSTERS {} WERE NOISY".format(A.index.values))
 
     return (df)
 
