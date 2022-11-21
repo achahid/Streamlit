@@ -1,11 +1,14 @@
 
 
+#%%
+
+
 #streamlit run main.py
 
 import streamlit as st
 import nltk
 import pandas as pd
-
+import os
 from nltk.stem.snowball import SnowballStemmer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.cluster import KMeans
@@ -13,6 +16,14 @@ import sys
 from deep_translator import GoogleTranslator
 from sentence_transformers import SentenceTransformer, util
 
+
+pd.options.mode.chained_assignment = None
+
+
+
+pd.set_option('display.max_rows', 500)
+pd.set_option('display.max_columns', 500)
+pd.set_option('display.width', 1000)
 
 
 
@@ -320,21 +331,39 @@ def info(df, cutoff):
     return (x)
 
 
+def save_uploaded_file(uploadedfile):
+  with open(os.path.join("tempDir",uploadedfile.name),"wb") as f:
+     f.write(uploadedfile.getbuffer())
+  return st.success("Saved file :{} in tempDir".format(uploadedfile.name))
 
 
 
 st.set_page_config(page_title='KEYWORDS CLUSTERING')
 st.header('KEYWORDS CLUSTERING')
-
-m = st.markdown("""
-<style>
-div.stButton > button:first-child {
-    background-color: #0099ff;
-    color:#ffffff;
- 
-</style>""", unsafe_allow_html=True)
+# st.subheader('Was the tutorial helpful?')
 
 
+
+from tempfile import NamedTemporaryFile
+import streamlit as st
+
+# uploaded_file = st.file_uploader("File upload", type='csv')
+# with NamedTemporaryFile(dir='.\\data\\results', suffix='.csv') as f:
+#     filename = f.name
+#     separator = 'results'
+#     file_path = filename.split(separator, 1)[0]+separator
+#     st.write(file_path)
+
+
+
+
+
+
+
+######################
+# filePath = st.text_input(label = "Please enter the path where to store the results")
+# # filePath = filePath.replace("", "\\")
+# st.write(filePath)
 
 # Preprocessing the data:
 data_preprocessed  = st.checkbox('Select keyword data to pre-process')
@@ -342,6 +371,16 @@ data_preprocessed  = st.checkbox('Select keyword data to pre-process')
 if data_preprocessed:
     uploaded_file_pr = st.file_uploader("Upload data for cleaning", type=['csv'])
 
+    # with NamedTemporaryFile(dir='.\\INPUT_DATA', suffix='.csv') as f:
+    #     filename = f.name
+    #     separator = 'INPUT_DATA'
+    #     file_path = filename.split(separator, 1)[0]#+separator
+    #     # st.write(file_path)
+    #
+    #     # Create a folder called CLUSTERING_RESULTS. where we can store our clustering results.
+    #     newpath = file_path +'\\CLUSTERING_RESULTS'
+    #     if not os.path.exists(newpath):
+    #         os.makedirs(newpath)
 
     if uploaded_file_pr is not None:
         df = pd.read_csv(uploaded_file_pr)
@@ -365,15 +404,39 @@ pick_data_cl = st.checkbox('Select keyword data to cluster')
 # pick_data_cl = st.button('Select keyword data to cluster')
 
 
+
+
+
 if pick_data_cl:
     uploaded_file_cl = st.file_uploader("Upload data", type=['csv'])
 
+    # with NamedTemporaryFile(dir='.\\data', suffix='.csv') as f:
+    #     filename = f.name
+    #     separator = 'data'
+    #     file_path = filename.split(separator, 1)[0]#+separator
+    #     # st.write(file_path)
+    #
+    #     # Create a folder called CLUSTERING_RESULTS. where we can store our clustering results.
+    #     newpath = file_path +'\\CLUSTERING_RESULTS'
+    #     if not os.path.exists(newpath):
+    #         os.makedirs(newpath)
 
 
     if uploaded_file_cl is not None:
         df = pd.read_csv(uploaded_file_cl)
         st.dataframe(df)
+        # st.write(uploaded_file_cl.name)
+        # save_uploadedfile(uploaded_file_cl)
 
+
+
+        # df = data_preprocessing(df)
+        # Keyword_ENG = df['Keyword_ENG']
+        # end = len(df) - 1
+        # start = st.sidebar.number_input('Minimum clusters :', min_value=2, max_value=end)
+        # stop = st.sidebar.number_input('Maximum clusters :', min_value=3, max_value=end)
+        # step = st.sidebar.number_input('Step value :', min_value=1, max_value=end)
+        # cutoff = st.sidebar.number_input('Cutoff value:', min_value=0.1, max_value=0.9)
 
 load = st.button('GENERATE CLUSTERS')
 # load = st.checkbox('GENERATE CLUSTERS')
@@ -383,8 +446,9 @@ load = st.button('GENERATE CLUSTERS')
 
 if load:
     model = SentenceTransformer('all-MiniLM-L6-v2')
+    # df = data_preprocessing(df)
     Keyword_ENG = df['Keyword_ENG']
-    dic = clustering(df, Keyword_ENG, start_cluster=25, end_cluster=125, steps=25, cutoff=0.5)
+    dic = clustering(df, Keyword_ENG, start_cluster=10, end_cluster=15, steps=2, cutoff=0.5)
     for i in dic:
 
         dic[i].to_csv('.\\CLUSTERING_RESULTS\\CLUSTER_id_' + str(i) + '.csv',
